@@ -2,3 +2,5 @@ Plik2
 Zmiana w pliku
 
 Zmiana w branch1
+
+zmiana 
